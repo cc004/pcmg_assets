@@ -628,7 +628,8 @@
         105601,
         106101,
         106801,
-        107101
+        107101,
+        110901
       ],
       "RoleType": 0,
       "TeamType": 0,
@@ -676,7 +677,8 @@
         105601,
         106101,
         106801,
-        107101
+        107101,
+        110901
       ],
       "RoleType": 0,
       "TeamType": 0,
@@ -725,7 +727,8 @@
         101101,
         104301,
         104801,
-        107101
+        107101,
+        116401
       ],
       "RoleType": 0,
       "TeamType": 0,
@@ -774,7 +777,8 @@
         101101,
         104301,
         104801,
-        107101
+        107101,
+        116401
       ],
       "RoleType": 0,
       "TeamType": 0,
@@ -895,7 +899,8 @@
         105601,
         106101,
         106801,
-        107101
+        107101,
+        110901
       ],
       "RoleType": 0,
       "TeamType": 0,
@@ -944,7 +949,8 @@
         105601,
         106101,
         106801,
-        107101
+        107101,
+        110901
       ],
       "RoleType": 0,
       "TeamType": 0,
@@ -1170,7 +1176,8 @@
         104901,
         105801,
         106101,
-        107101
+        107101,
+        116401
       ],
       "RoleType": 0,
       "TeamType": 0,
@@ -1359,7 +1366,9 @@
         104401,
         104601,
         105001,
-        106001
+        106001,
+        110801,
+        116401
       ],
       "RoleType": 0,
       "TeamType": 0,
@@ -1407,7 +1416,8 @@
         101101,
         104301,
         104801,
-        107101
+        107101,
+        116401
       ],
       "RoleType": 0,
       "TeamType": 0,
@@ -2171,7 +2181,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2182,7 +2193,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2193,7 +2205,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2204,7 +2217,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2215,7 +2229,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2226,7 +2241,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2237,7 +2253,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2248,7 +2265,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2259,7 +2277,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2270,7 +2289,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2281,7 +2301,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2292,7 +2313,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2303,7 +2325,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2314,7 +2337,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2325,7 +2349,8 @@
         2,
         3,
         4,
-        5
+        5,
+        7
       ],
       "LotteryRate": 100
     },
@@ -2336,7 +2361,20 @@
         2,
         3,
         4,
-        5
+        5,
+        7
+      ],
+      "LotteryRate": 100
+    },
+    {
+      "GuildId": 17,
+      "GuildBuffIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
       ],
       "LotteryRate": 100
     }
@@ -2710,7 +2748,7 @@
         0
       ],
       "UsableLimitNumber": 0,
-      "GoodsUrl": "https://cystore.com/products/4573478715449"
+      "GoodsUrl": ""
     },
     {
       "ItemId": 8,
@@ -2721,7 +2759,7 @@
         0
       ],
       "UsableLimitNumber": 0,
-      "GoodsUrl": "https://cystore.com/products/4573478717023"
+      "GoodsUrl": ""
     },
     {
       "ItemId": 9,
@@ -2732,7 +2770,7 @@
         0
       ],
       "UsableLimitNumber": 0,
-      "GoodsUrl": "https://cystore.com/products/4573478717030"
+      "GoodsUrl": ""
     },
     {
       "ItemId": 10,
@@ -4575,7 +4613,7 @@
       "SkillActionType": 200000042,
       "ActionValues": [
         [
-          4.0
+          3.0
         ],
         [
           6.0
@@ -4621,7 +4659,7 @@
       "SkillActionType": 200000099,
       "ActionValues": [
         [
-          100.0
+          200.0
         ]
       ],
       "AssignmentType": 1,
@@ -4724,7 +4762,7 @@
       "SkillActionType": 200000034,
       "ActionValues": [
         [
-          10.0
+          15.0
         ],
         [
           250.0
@@ -4770,7 +4808,7 @@
       "SkillActionType": 200000008,
       "ActionValues": [
         [
-          15.0
+          10.0
         ]
       ],
       "AssignmentType": 2,
@@ -4790,7 +4828,7 @@
       "SkillActionType": 200000010,
       "ActionValues": [
         [
-          30.0
+          45.0
         ],
         [
           99.0
@@ -4836,7 +4874,7 @@
       "SkillActionType": 200000015,
       "ActionValues": [
         [
-          40.0
+          25.0
         ],
         [
           1.0
@@ -4862,7 +4900,7 @@
           25.0
         ],
         [
-          5.0
+          3.0
         ]
       ],
       "AssignmentType": 2,
@@ -4885,7 +4923,7 @@
           40.0
         ],
         [
-          400.0
+          300.0
         ],
         [
           2.0
@@ -4951,7 +4989,7 @@
       "SkillActionType": 200000048,
       "ActionValues": [
         [
-          4.0
+          3.0
         ],
         [
           6.0
@@ -5239,6 +5277,26 @@
       "ActionValues": [
         [
           4.7
+        ]
+      ],
+      "AssignmentType": 2,
+      "skillRange": [
+        0.0
+      ],
+      "TargetType": 6,
+      "TargetNumber": 0,
+      "targetCount": [
+        1
+      ],
+      "TargetExtras": "",
+      "AllowDuplicate": true
+    },
+    {
+      "Id": 90000113,
+      "SkillActionType": 90000113,
+      "ActionValues": [
+        [
+          2.0
         ]
       ],
       "AssignmentType": 2,
@@ -6902,169 +6960,216 @@
       "PlayGuideId": 10001,
       "Title": "PlayGuide_10001",
       "ImageId": 10001,
-      "DisplayOrder": 1
+      "DisplayOrder": 5,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10010,
       "Title": "PlayGuide_10010",
       "ImageId": 10010,
-      "DisplayOrder": 10
+      "DisplayOrder": 10,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10020,
       "Title": "PlayGuide_10020",
       "ImageId": 10020,
-      "DisplayOrder": 20
+      "DisplayOrder": 20,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10030,
       "Title": "PlayGuide_10030",
       "ImageId": 10030,
-      "DisplayOrder": 30
+      "DisplayOrder": 30,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10031,
       "Title": "PlayGuide_10031",
       "ImageId": 10031,
-      "DisplayOrder": 35
+      "DisplayOrder": 35,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10040,
       "Title": "PlayGuide_10040",
       "ImageId": 10040,
-      "DisplayOrder": 40
+      "DisplayOrder": 40,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10050,
       "Title": "PlayGuide_10050",
       "ImageId": 10050,
-      "DisplayOrder": 50
+      "DisplayOrder": 50,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10060,
       "Title": "PlayGuide_10060",
       "ImageId": 10060,
-      "DisplayOrder": 60
+      "DisplayOrder": 60,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10070,
       "Title": "PlayGuide_10070",
       "ImageId": 10070,
-      "DisplayOrder": 70
+      "DisplayOrder": 70,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10080,
       "Title": "PlayGuide_10080",
       "ImageId": 10080,
-      "DisplayOrder": 80
-    },
-    {
-      "PlayGuideId": 10081,
-      "Title": "PlayGuide_10081",
-      "ImageId": 10081,
-      "DisplayOrder": 85
+      "DisplayOrder": 80,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10090,
       "Title": "PlayGuide_10090",
       "ImageId": 10090,
-      "DisplayOrder": 90
+      "DisplayOrder": 90,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10100,
       "Title": "PlayGuide_10100",
       "ImageId": 10100,
-      "DisplayOrder": 100
+      "DisplayOrder": 100,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10110,
       "Title": "PlayGuide_10110",
       "ImageId": 10110,
-      "DisplayOrder": 110
+      "DisplayOrder": 110,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10210,
       "Title": "PlayGuide_10210",
       "ImageId": 10210,
-      "DisplayOrder": 120
+      "DisplayOrder": 120,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10211,
       "Title": "PlayGuide_10211",
       "ImageId": 10211,
-      "DisplayOrder": 130
+      "DisplayOrder": 130,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10212,
       "Title": "PlayGuide_10212",
       "ImageId": 10212,
-      "DisplayOrder": 140
+      "DisplayOrder": 140,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10213,
       "Title": "PlayGuide_10213",
       "ImageId": 10213,
-      "DisplayOrder": 150
+      "DisplayOrder": 150,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10214,
       "Title": "PlayGuide_10214",
       "ImageId": 10214,
-      "DisplayOrder": 160
+      "DisplayOrder": 160,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10215,
       "Title": "PlayGuide_10215",
       "ImageId": 10215,
-      "DisplayOrder": 170
+      "DisplayOrder": 170,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10216,
       "Title": "PlayGuide_10216",
       "ImageId": 10216,
-      "DisplayOrder": 180
+      "DisplayOrder": 180,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10217,
       "Title": "PlayGuide_10217",
       "ImageId": 10217,
-      "DisplayOrder": 190
+      "DisplayOrder": 190,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10218,
       "Title": "PlayGuide_10218",
       "ImageId": 10218,
-      "DisplayOrder": 200
+      "DisplayOrder": 200,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10219,
       "Title": "PlayGuide_10219",
       "ImageId": 10219,
-      "DisplayOrder": 210
+      "DisplayOrder": 210,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10220,
       "Title": "PlayGuide_10220",
       "ImageId": 10220,
-      "DisplayOrder": 220
+      "DisplayOrder": 220,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10221,
       "Title": "PlayGuide_10221",
       "ImageId": 10221,
-      "DisplayOrder": 230
+      "DisplayOrder": 230,
+      "AdditionalImageIds": []
+    },
+    {
+      "PlayGuideId": 10222,
+      "Title": "PlayGuide_10222",
+      "ImageId": 10222,
+      "DisplayOrder": 240,
+      "AdditionalImageIds": []
+    },
+    {
+      "PlayGuideId": 10223,
+      "Title": "PlayGuide_10223",
+      "ImageId": 10223,
+      "DisplayOrder": 241,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 10310,
       "Title": "PlayGuide_10310",
       "ImageId": 10310,
-      "DisplayOrder": 240
+      "DisplayOrder": 125,
+      "AdditionalImageIds": []
     },
     {
       "PlayGuideId": 20010,
       "Title": "PlayGuide_20010",
       "ImageId": 20010,
-      "DisplayOrder": 250
+      "DisplayOrder": 250,
+      "AdditionalImageIds": []
+    },
+    {
+      "PlayGuideId": 40010,
+      "Title": "PlayGuide_40010",
+      "ImageId": 40010,
+      "DisplayOrder": 1,
+      "AdditionalImageIds": [
+        40020,
+        40030,
+        40040,
+        40050
+      ]
     }
   ],
   "player_level_data": [
@@ -7098,11 +7203,61 @@
     },
     {
       "Level": 8,
-      "Exp": 26
+      "Exp": 28
     },
     {
       "Level": 9,
-      "Exp": 32
+      "Exp": 40
+    }
+  ],
+  "prize_data": [
+    {
+      "Id": 100010,
+      "Name": "猛訓打撃道！プリコネR野球盤",
+      "Description": "作中のミニゲーム、「ミサトの猛訓打撃道！ホームランドリル」をイメージした野球盤です。スコアボードや盤面などはすべて描きおろしアートとなっており、ゲーム中では見ることができなかった細部まで確認することができます。\n\n※画像はイメージです。実際の商品とは異なる場合がございます",
+      "Details": "",
+      "WebDescription": "作中のミニゲーム、「ミサトの猛訓打撃道！ホームランドリル」をイメージした野球盤です。スコアボードや盤面などはすべて描きおろしアートとなっており、ゲーム中では見ることができなかった細部まで確認することができます。\n\n※画像はイメージです。実際の商品とは異なる場合がございます",
+      "Type": 0
+    },
+    {
+      "Id": 100020,
+      "Name": "美食殿のおなかぺこぺこキッチンタイマー",
+      "Description": "「プリコネグランプリ2021」のグランプリとして選ばれた「美食キッチンタイマー」です。\nペコリーヌ、コッコロ、キャルの新規録り下ろし音声が入った豪華なキッチンタイマーで、毎日のお料理も楽しくなる！\n\n※画像はイメージです。実際の商品とは異なる場合がございます",
+      "Details": "",
+      "WebDescription": "「プリコネグランプリ2021」のグランプリとして選ばれた「美食キッチンタイマー」です。\nペコリーヌ、コッコロ、キャルの新規録り下ろし音声が入った豪華なキッチンタイマーで、毎日のお料理も楽しくなる！\n\n※画像はイメージです。実際の商品とは異なる場合がございます",
+      "Type": 0
+    },
+    {
+      "Id": 100030,
+      "Name": "コッコロのホットサンドメーカー",
+      "Description": "「プリコネグランプリ2021」の優秀賞として選ばれた、「プリコネホットサンドメーカー」です。\nコッコロスタンプの可愛い焼き目が付いたホットサンドを作ることができます！\n\n※画像はイメージです。実際の商品とは異なる場合がございます",
+      "Details": "",
+      "WebDescription": "「プリコネグランプリ2021」の優秀賞として選ばれた、「プリコネホットサンドメーカー」です。\nコッコロスタンプの可愛い焼き目が付いたホットサンドを作ることができます！\n\n※画像はイメージです。実際の商品とは異なる場合がございます",
+      "Type": 0
+    },
+    {
+      "Id": 100040,
+      "Name": "コッコロのおさいふ",
+      "Description": "ギルドハウスの家具「コッコロのおさいふ」を再現しました！\nおさいふとしての使用はもちろん、家具としても飾ってみてくださいね。\n\n※画像はイメージです。実際の商品とは異なる場合がございます",
+      "Details": "",
+      "WebDescription": "ギルドハウスの家具「コッコロのおさいふ」を再現しました！\nおさいふとしての使用はもちろん、家具としても飾ってみてくださいね。\n\n※画像はイメージです。実際の商品とは異なる場合がございます",
+      "Type": 0
+    },
+    {
+      "Id": 100050,
+      "Name": "おしゃべりチエルちゃん",
+      "Description": "あの「おしゃべりチエルちゃん」が本当にぬいぐるみになって登場です！\n左手を押すと可愛いチエルちゃんの音声が流れます。とってもきゃわわなミニちえるんを忠実に再現し、髪の毛の印象的なグラデーションや、可愛くデフォルメされたコスチュームなど見どころ満載です！\n\n※画像はイメージです。実際の商品とは異なる場合がございます",
+      "Details": "",
+      "WebDescription": "あの「おしゃべりチエルちゃん」が本当にぬいぐるみになって登場です！\n左手を押すと可愛いチエルちゃんの音声が流れます。とってもきゃわわなミニちえるんを忠実に再現し、髪の毛の印象的なグラデーションや、可愛くデフォルメされたコスチュームなど見どころ満載です！\n\n※画像はイメージです。実際の商品とは異なる場合がございます",
+      "Type": 0
+    },
+    {
+      "Id": 100060,
+      "Name": "デジタルギフト",
+      "Description": "デジタルギフトです。詳しい情報は「情報入力へ」ボタンを押して遷移するウェブサイトから確認できます",
+      "Details": "",
+      "WebDescription": "ラインナップの中から好きな商品と交換できる、えらべるPay 3000 ポイントです！\n\n※ラインナップおよび交換に必要なポイントは付与されたえらべるPayにより異なり、変更になる場合がございます。また、えらべるPay内のポイント交換レートは商品により異なります。記載された必要ポイント数をよくご確認の上、商品と交換ください。\n※詳細はメールにてご案内します",
+      "Type": 1
     }
   ],
   "prop_data": [
@@ -7545,9 +7700,9 @@
         100101,
         105901,
         101701,
-        101601,
         103001,
-        101801
+        101801,
+        116401
       ],
       "EffectiveTeamTypes": [
         204
@@ -7780,6 +7935,61 @@
       "EffectiveRoleTypes": [
         104
       ]
+    },
+    {
+      "Id": 10031,
+      "PartyName": "なかよし部3アサシン4",
+      "UnitIds": [
+        110901,
+        111001,
+        100401,
+        105901,
+        110801,
+        101701,
+        103001,
+        104801
+      ],
+      "EffectiveTeamTypes": [
+        204
+      ],
+      "EffectiveRoleTypes": [
+        104
+      ]
+    },
+    {
+      "Id": 10032,
+      "PartyName": "なかよし部3シールドマスター4",
+      "UnitIds": [
+        110901,
+        111001,
+        102901,
+        105201,
+        110801,
+        100101,
+        102301
+      ],
+      "EffectiveTeamTypes": [
+        204
+      ],
+      "EffectiveRoleTypes": [
+        104
+      ]
+    },
+    {
+      "Id": 10033,
+      "PartyName": "なかよし部3ヒーラー3",
+      "UnitIds": [
+        110901,
+        111001,
+        110801,
+        103401,
+        101701,
+        104801,
+        107101,
+        100201
+      ],
+      "EffectiveTeamTypes": [],
+      "EffectiveRoleTypes": []
     }
   ],
   "role_synergy_data": [
@@ -7851,12 +8061,12 @@
       ],
       "MiddleCount": 6,
       "MiddleValue": [
-        75.0,
+        80.0,
         1.0
       ],
       "HighCount": 6,
       "HighValue": [
-        75.0,
+        80.0,
         1.0
       ],
       "BonusValue": [
@@ -7872,24 +8082,24 @@
       "Id": 104,
       "LowCount": 3,
       "LowValue": [
-        40.0
+        50.0
       ],
       "MiddleCount": 5,
       "MiddleValue": [
-        60.0
+        80.0
       ],
       "HighCount": 7,
       "HighValue": [
-        100.0
+        120.0
       ],
       "BonusValue": [
         0.0,
         0.0
       ],
       "SkillDamageScale": [
-        40,
-        60,
-        100
+        50,
+        80,
+        120
       ]
     },
     {
@@ -7930,17 +8140,17 @@
       "Id": 106,
       "LowCount": 2,
       "LowValue": [
-        15.0,
+        25.0,
         150.0
       ],
       "MiddleCount": 4,
       "MiddleValue": [
-        30.0,
+        40.0,
         150.0
       ],
       "HighCount": 6,
       "HighValue": [
-        60.0,
+        70.0,
         150.0
       ],
       "BonusValue": [
@@ -7956,15 +8166,15 @@
       "Id": 107,
       "LowCount": 3,
       "LowValue": [
-        20.0
+        30.0
       ],
       "MiddleCount": 5,
       "MiddleValue": [
-        30.0
+        40.0
       ],
       "HighCount": 5,
       "HighValue": [
-        30.0
+        40.0
       ],
       "BonusValue": [
         0.0
@@ -8002,11 +8212,11 @@
       "Id": 109,
       "LowCount": 2,
       "LowValue": [
-        25.0
+        20.0
       ],
       "MiddleCount": 3,
       "MiddleValue": [
-        40.0
+        35.0
       ],
       "HighCount": 4,
       "HighValue": [
@@ -8096,23 +8306,52 @@
       "LowValue": [
         3.0,
         3.0,
-        40.0
+        50.0
       ],
       "MiddleCount": 4,
       "MiddleValue": [
         3.0,
         3.0,
-        60.0
+        80.0
       ],
       "HighCount": 6,
       "HighValue": [
         3.0,
         3.0,
-        100.0
+        130.0
       ],
       "BonusValue": [
         0.0,
         0.0
+      ],
+      "SkillDamageScale": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Id": 114,
+      "LowCount": 1,
+      "LowValue": [
+        50.0,
+        5.0,
+        10.0
+      ],
+      "MiddleCount": 1,
+      "MiddleValue": [
+        50.0,
+        5.0,
+        10.0
+      ],
+      "HighCount": 1,
+      "HighValue": [
+        50.0,
+        5.0,
+        10.0
+      ],
+      "BonusValue": [
+        9.0
       ],
       "SkillDamageScale": [
         0,
@@ -8131,10 +8370,11 @@
       "WinGold": 0,
       "LoseGold": 0,
       "WinBonus": 0,
-      "BaseDamage": 1,
+      "BaseDamage": 0,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 15
     },
     {
       "Number": 2,
@@ -8145,10 +8385,11 @@
       "WinGold": 0,
       "LoseGold": 0,
       "WinBonus": 0,
-      "BaseDamage": 2,
+      "BaseDamage": 0,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 15
     },
     {
       "Number": 3,
@@ -8159,10 +8400,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 3,
+      "BaseDamage": 0,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 45
     },
     {
       "Number": 4,
@@ -8173,10 +8415,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 4,
+      "BaseDamage": 0,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 25
     },
     {
       "Number": 5,
@@ -8187,10 +8430,11 @@
       "WinGold": 0,
       "LoseGold": 0,
       "WinBonus": 0,
-      "BaseDamage": 5,
+      "BaseDamage": 0,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 20
     },
     {
       "Number": 6,
@@ -8201,10 +8445,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 6,
+      "BaseDamage": 2,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 45
     },
     {
       "Number": 7,
@@ -8215,10 +8460,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 7,
+      "BaseDamage": 2,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 25
     },
     {
       "Number": 8,
@@ -8229,10 +8475,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 8,
+      "BaseDamage": 2,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 25
     },
     {
       "Number": 9,
@@ -8243,10 +8490,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 9,
+      "BaseDamage": 2,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 25
     },
     {
       "Number": 10,
@@ -8257,10 +8505,11 @@
       "WinGold": 0,
       "LoseGold": 0,
       "WinBonus": 0,
-      "BaseDamage": 10,
+      "BaseDamage": 2,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 20
     },
     {
       "Number": 11,
@@ -8271,10 +8520,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 11,
+      "BaseDamage": 6,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 45
     },
     {
       "Number": 12,
@@ -8285,10 +8535,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 12,
+      "BaseDamage": 6,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 13,
@@ -8299,10 +8550,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 13,
+      "BaseDamage": 6,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 14,
@@ -8313,10 +8565,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 14,
+      "BaseDamage": 6,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 15,
@@ -8327,10 +8580,11 @@
       "WinGold": 0,
       "LoseGold": 0,
       "WinBonus": 0,
-      "BaseDamage": 15,
+      "BaseDamage": 6,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 20
     },
     {
       "Number": 16,
@@ -8341,10 +8595,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 16,
+      "BaseDamage": 8,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 45
     },
     {
       "Number": 17,
@@ -8355,10 +8610,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 17,
+      "BaseDamage": 8,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 18,
@@ -8369,10 +8625,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 18,
+      "BaseDamage": 8,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 19,
@@ -8383,10 +8640,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 19,
+      "BaseDamage": 8,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 20,
@@ -8397,10 +8655,11 @@
       "WinGold": 0,
       "LoseGold": 0,
       "WinBonus": 0,
-      "BaseDamage": 20,
+      "BaseDamage": 8,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 21,
@@ -8411,10 +8670,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 21,
+      "BaseDamage": 12,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 45
     },
     {
       "Number": 22,
@@ -8425,10 +8685,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 22,
+      "BaseDamage": 12,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 23,
@@ -8439,10 +8700,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 23,
+      "BaseDamage": 12,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 24,
@@ -8453,10 +8715,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 24,
+      "BaseDamage": 12,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 25,
@@ -8467,10 +8730,11 @@
       "WinGold": 0,
       "LoseGold": 0,
       "WinBonus": 0,
-      "BaseDamage": 40,
+      "BaseDamage": 48,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 26,
@@ -8481,10 +8745,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 27,
@@ -8495,10 +8760,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 28,
@@ -8509,10 +8775,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 29,
@@ -8523,10 +8790,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 30,
@@ -8537,10 +8805,11 @@
       "WinGold": 0,
       "LoseGold": 0,
       "WinBonus": 0,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 31,
@@ -8551,10 +8820,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 0,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 32,
@@ -8565,10 +8835,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 33,
@@ -8579,10 +8850,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 34,
@@ -8593,10 +8865,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 35,
@@ -8607,10 +8880,11 @@
       "WinGold": 0,
       "LoseGold": 0,
       "WinBonus": 0,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 36,
@@ -8621,10 +8895,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 37,
@@ -8635,10 +8910,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 38,
@@ -8649,10 +8925,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 39,
@@ -8663,10 +8940,11 @@
       "WinGold": 1,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 40,
@@ -8677,10 +8955,11 @@
       "WinGold": 0,
       "LoseGold": 0,
       "WinBonus": 1,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     },
     {
       "Number": 41,
@@ -8691,10 +8970,11 @@
       "WinGold": 0,
       "LoseGold": 0,
       "WinBonus": 0,
-      "BaseDamage": 40,
+      "BaseDamage": 50,
       "TeamBaseDamage": 20,
-      "UnitDamage": 0,
-      "ExperiencePoints": 2
+      "UnitDamage": 2,
+      "ExperiencePoints": 2,
+      "PrepareTime": 30
     }
   ],
   "season_data": [
@@ -8708,18 +8988,28 @@
   "season_rank_data": [
     {
       "Rank": 1,
-      "Name": "初心者",
+      "Name": "初心者1",
       "ResetRank": 1
     },
     {
       "Rank": 2,
-      "Name": "中級者",
+      "Name": "初心者2",
       "ResetRank": 2
     },
     {
       "Rank": 3,
-      "Name": "上級者",
+      "Name": "中級者",
       "ResetRank": 3
+    },
+    {
+      "Rank": 4,
+      "Name": "上級者1",
+      "ResetRank": 4
+    },
+    {
+      "Rank": 5,
+      "Name": "上級者2",
+      "ResetRank": 5
     }
   ],
   "season_rank_level_data": [
@@ -8732,13 +9022,25 @@
     {
       "Rank": 2,
       "Level": 1,
-      "LevelupRequiredRp": 41,
+      "LevelupRequiredRp": 10,
       "IsNotDemote": false
     },
     {
       "Rank": 3,
       "Level": 1,
-      "LevelupRequiredRp": 301,
+      "LevelupRequiredRp": 41,
+      "IsNotDemote": false
+    },
+    {
+      "Rank": 4,
+      "Level": 1,
+      "LevelupRequiredRp": 121,
+      "IsNotDemote": false
+    },
+    {
+      "Rank": 5,
+      "Level": 1,
+      "LevelupRequiredRp": 201,
       "IsNotDemote": false
     }
   ],
@@ -8836,18 +9138,18 @@
       "Tier1OddsRate": 200,
       "Tier2OddsRate": 300,
       "Tier3OddsRate": 350,
-      "Tier4OddsRate": 130,
-      "Tier5OddsRate": 20
+      "Tier4OddsRate": 120,
+      "Tier5OddsRate": 30
     },
     {
       "Seq": 8,
       "LotteryPatternId": 1,
       "PlayerLevel": 8,
-      "Tier1OddsRate": 180,
+      "Tier1OddsRate": 170,
       "Tier2OddsRate": 250,
       "Tier3OddsRate": 300,
       "Tier4OddsRate": 200,
-      "Tier5OddsRate": 70
+      "Tier5OddsRate": 80
     },
     {
       "Seq": 9,
@@ -8998,8 +9300,8 @@
       "SkillActionType": 2,
       "ActionValues": [
         [
-          350.0,
-          500.0,
+          300.0,
+          450.0,
           9999.0
         ]
       ],
@@ -9340,9 +9642,9 @@
       "SkillActionType": 10003,
       "ActionValues": [
         [
-          2.0,
           3.0,
-          4.0
+          4.0,
+          5.0
         ],
         [
           0.0
@@ -9415,9 +9717,9 @@
       "SkillActionType": 9,
       "ActionValues": [
         [
-          300.0,
-          400.0,
-          600.0
+          350.0,
+          450.0,
+          700.0
         ]
       ],
       "AssignmentType": 1,
@@ -9515,8 +9817,8 @@
       "SkillActionType": 10018,
       "ActionValues": [
         [
-          5.0,
-          7.0,
+          6.0,
+          8.0,
           20.0
         ]
       ],
@@ -9559,9 +9861,9 @@
       "SkillActionType": 10030,
       "ActionValues": [
         [
-          200.0,
-          300.0,
-          500.0
+          150.0,
+          250.0,
+          300.0
         ],
         [
           1.0
@@ -9593,9 +9895,9 @@
       "SkillActionType": 9,
       "ActionValues": [
         [
+          150.0,
           250.0,
-          350.0,
-          500.0
+          400.0
         ]
       ],
       "AssignmentType": 1,
@@ -9690,9 +9992,9 @@
       "SkillActionType": 9,
       "ActionValues": [
         [
-          200.0,
           300.0,
-          500.0
+          400.0,
+          700.0
         ]
       ],
       "AssignmentType": 1,
@@ -9765,9 +10067,9 @@
       "SkillActionType": 9,
       "ActionValues": [
         [
-          200.0,
           300.0,
-          500.0
+          400.0,
+          700.0
         ]
       ],
       "AssignmentType": 1,
@@ -9788,7 +10090,7 @@
       "ActionValues": [
         [
           2.5,
-          2.5,
+          3.0,
           4.0
         ],
         [
@@ -10018,9 +10320,9 @@
       "SkillActionType": 10050,
       "ActionValues": [
         [
-          300.0,
-          500.0,
-          1000.0
+          400.0,
+          600.0,
+          1200.0
         ],
         [
           5.0
@@ -10066,8 +10368,8 @@
       "SkillActionType": 10033,
       "ActionValues": [
         [
+          350.0,
           400.0,
-          450.0,
           600.0
         ],
         [
@@ -10096,8 +10398,8 @@
           1.8
         ],
         [
-          450.0,
-          700.0,
+          400.0,
+          600.0,
           2000.0
         ],
         [
@@ -10124,8 +10426,8 @@
           1.7
         ],
         [
-          350.0,
-          450.0,
+          300.0,
+          400.0,
           600.0
         ],
         [
@@ -10199,7 +10501,7 @@
       "SkillActionType": 10004,
       "ActionValues": [
         [
-          500.0
+          450.0
         ]
       ],
       "AssignmentType": 1,
@@ -10391,7 +10693,7 @@
       "SkillActionType": 13,
       "ActionValues": [
         [
-          40.0
+          30.0
         ],
         [
           1.0
@@ -10473,8 +10775,8 @@
       "SkillActionType": 9,
       "ActionValues": [
         [
-          400.0,
-          600.0,
+          350.0,
+          500.0,
           1000.0
         ]
       ],
@@ -10520,9 +10822,9 @@
       "SkillActionType": 10030,
       "ActionValues": [
         [
-          200.0,
-          300.0,
-          500.0
+          250.0,
+          350.0,
+          600.0
         ],
         [
           1.0
@@ -11091,6 +11393,196 @@
       "AllowDuplicate": true
     },
     {
+      "Id": 11080101,
+      "SkillActionType": 1,
+      "ActionValues": [
+        [
+          350.0,
+          450.0,
+          800.0
+        ]
+      ],
+      "AssignmentType": 1,
+      "skillRange": [
+        0.0
+      ],
+      "TargetType": 1,
+      "TargetNumber": 0,
+      "targetCount": [
+        1
+      ],
+      "TargetExtras": "",
+      "AllowDuplicate": true
+    },
+    {
+      "Id": 11080102,
+      "SkillActionType": 13,
+      "ActionValues": [
+        [
+          30.0,
+          50.0,
+          70.0
+        ],
+        [
+          1.0
+        ],
+        [
+          6.0,
+          8.0,
+          10.0
+        ]
+      ],
+      "AssignmentType": 2,
+      "skillRange": [
+        0.0
+      ],
+      "TargetType": 7,
+      "TargetNumber": 0,
+      "targetCount": [
+        99
+      ],
+      "TargetExtras": "team_type=217",
+      "AllowDuplicate": true
+    },
+    {
+      "Id": 11090101,
+      "SkillActionType": 9,
+      "ActionValues": [
+        [
+          200.0,
+          300.0,
+          600.0
+        ]
+      ],
+      "AssignmentType": 1,
+      "skillRange": [
+        0.0
+      ],
+      "TargetType": 1,
+      "TargetNumber": 0,
+      "targetCount": [
+        1
+      ],
+      "TargetExtras": "",
+      "AllowDuplicate": true
+    },
+    {
+      "Id": 11090102,
+      "SkillActionType": 13,
+      "ActionValues": [
+        [
+          30.0,
+          40.0,
+          60.0
+        ],
+        [
+          7.0
+        ],
+        [
+          6.0,
+          8.0,
+          10.0
+        ]
+      ],
+      "AssignmentType": 2,
+      "skillRange": [
+        0.0
+      ],
+      "TargetType": 7,
+      "TargetNumber": 0,
+      "targetCount": [
+        99
+      ],
+      "TargetExtras": "team_type=217",
+      "AllowDuplicate": true
+    },
+    {
+      "Id": 11100101,
+      "SkillActionType": 2,
+      "ActionValues": [
+        [
+          100.0,
+          200.0,
+          400.0
+        ]
+      ],
+      "AssignmentType": 2,
+      "skillRange": [
+        0.0
+      ],
+      "TargetType": 0,
+      "TargetNumber": 0,
+      "targetCount": [
+        99
+      ],
+      "TargetExtras": "",
+      "AllowDuplicate": true
+    },
+    {
+      "Id": 11100102,
+      "SkillActionType": 13,
+      "ActionValues": [
+        [
+          50.0,
+          100.0,
+          200.0
+        ],
+        [
+          3.0
+        ],
+        [
+          6.0,
+          8.0,
+          10.0
+        ]
+      ],
+      "AssignmentType": 2,
+      "skillRange": [
+        0.0
+      ],
+      "TargetType": 7,
+      "TargetNumber": 0,
+      "targetCount": [
+        99
+      ],
+      "TargetExtras": "team_type=217",
+      "AllowDuplicate": true
+    },
+    {
+      "Id": 11640101,
+      "SkillActionType": 10030,
+      "ActionValues": [
+        [
+          400.0,
+          600.0,
+          1200.0
+        ],
+        [
+          1.0
+        ],
+        [
+          99.0
+        ],
+        [
+          0.0
+        ],
+        [
+          1.0
+        ]
+      ],
+      "AssignmentType": 1,
+      "skillRange": [
+        0.0
+      ],
+      "TargetType": 3,
+      "TargetNumber": 0,
+      "targetCount": [
+        99
+      ],
+      "TargetExtras": "",
+      "AllowDuplicate": true
+    },
+    {
       "Id": 30160001,
       "SkillActionType": 9,
       "ActionValues": [
@@ -11339,7 +11831,7 @@
         10010101
       ],
       "PassiveSkillActionIds": [
-        0
+        90000113
       ],
       "range": [
         1.0
@@ -11381,7 +11873,7 @@
         10040101
       ],
       "PassiveSkillActionIds": [
-        0
+        90000113
       ],
       "range": [
         99.0
@@ -11414,7 +11906,7 @@
         0
       ],
       "range": [
-        1.0
+        2.0
       ],
       "SkillType": 5,
       "CoolTime": 3.5
@@ -11569,7 +12061,8 @@
         0
       ],
       "PassiveSkillActionIds": [
-        10170111
+        10170111,
+        90000113
       ],
       "range": [
         1.0
@@ -11583,7 +12076,7 @@
         10180101
       ],
       "PassiveSkillActionIds": [
-        0
+        90000113
       ],
       "range": [
         99.0
@@ -11731,7 +12224,7 @@
         10300102
       ],
       "PassiveSkillActionIds": [
-        0
+        90000113
       ],
       "range": [
         2.0
@@ -11916,7 +12409,7 @@
         10460102
       ],
       "PassiveSkillActionIds": [
-        0
+        90000113
       ],
       "range": [
         99.0
@@ -12176,6 +12669,65 @@
       ],
       "SkillType": 3,
       "CoolTime": 4.3
+    },
+    {
+      "Id": 110801,
+      "SkillActionIds": [
+        11080101,
+        11080102
+      ],
+      "PassiveSkillActionIds": [
+        0
+      ],
+      "range": [
+        1.0
+      ],
+      "SkillType": 2,
+      "CoolTime": 2.9
+    },
+    {
+      "Id": 110901,
+      "SkillActionIds": [
+        11090101,
+        11090102
+      ],
+      "PassiveSkillActionIds": [
+        0
+      ],
+      "range": [
+        1.0
+      ],
+      "SkillType": 1,
+      "CoolTime": 2.8
+    },
+    {
+      "Id": 111001,
+      "SkillActionIds": [
+        11100101,
+        11100102
+      ],
+      "PassiveSkillActionIds": [
+        0
+      ],
+      "range": [
+        1.0
+      ],
+      "SkillType": 7,
+      "CoolTime": 4.1
+    },
+    {
+      "Id": 116401,
+      "SkillActionIds": [
+        11640101
+      ],
+      "PassiveSkillActionIds": [
+        0
+      ],
+      "range": [
+        99.0
+      ],
+      "SkillType": 1,
+      "CoolTime": 3.3
     },
     {
       "Id": 301600,
@@ -12667,17 +13219,17 @@
       "LowCount": 2,
       "LowValue": [
         50.0,
-        4.0
+        3.0
       ],
       "MiddleCount": 3,
       "MiddleValue": [
         50.0,
-        6.0
+        5.0
       ],
       "HighCount": 3,
       "HighValue": [
         50.0,
-        6.0
+        5.0
       ],
       "BonusValue": [
         0.0
@@ -12692,17 +13244,17 @@
       "Id": 209,
       "LowCount": 3,
       "LowValue": [
-        20.0,
+        25.0,
         20.0
       ],
       "MiddleCount": 6,
       "MiddleValue": [
-        30.0,
+        35.0,
         35.0
       ],
       "HighCount": 6,
       "HighValue": [
-        30.0,
+        35.0,
         35.0
       ],
       "BonusValue": [
@@ -12810,15 +13362,15 @@
       "Id": 214,
       "LowCount": 3,
       "LowValue": [
-        35.0
+        30.0
       ],
       "MiddleCount": 6,
       "MiddleValue": [
-        70.0
+        65.0
       ],
       "HighCount": 6,
       "HighValue": [
-        70.0
+        65.0
       ],
       "BonusValue": [
         0.0
@@ -12876,6 +13428,29 @@
         3.0,
         3.0,
         150.0,
+        0.0
+      ],
+      "BonusValue": [
+        0.0
+      ],
+      "SkillDamageScale": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Id": 217,
+      "LowCount": 3,
+      "LowValue": [
+        0.0
+      ],
+      "MiddleCount": 3,
+      "MiddleValue": [
+        0.0
+      ],
+      "HighCount": 3,
+      "HighValue": [
         0.0
       ],
       "BonusValue": [
@@ -12947,7 +13522,7 @@
       "MagicAtk": 0,
       "Defence": 20,
       "MagicDefence": 20,
-      "TechnicalPoint": 100,
+      "TechnicalPoint": 120,
       "AttackRecastTime": 1.5,
       "MoveRecastTime": 0.4,
       "AttackRange": 4.0,
@@ -12991,11 +13566,11 @@
       "Id": 100301,
       "Name": "レイ",
       "Playable": true,
-      "Life": 550,
+      "Life": 600,
       "Atk": 80,
       "MagicAtk": 0,
       "Defence": 20,
-      "MagicDefence": 10,
+      "MagicDefence": 15,
       "TechnicalPoint": 70,
       "AttackRecastTime": 1.4,
       "MoveRecastTime": 0.4,
@@ -13046,7 +13621,7 @@
       "Defence": 15,
       "MagicDefence": 10,
       "TechnicalPoint": 60,
-      "AttackRecastTime": 1.2,
+      "AttackRecastTime": 1.3,
       "MoveRecastTime": 0.4,
       "AttackRange": 3.0,
       "Scale": 0,
@@ -13089,7 +13664,7 @@
       "Id": 100501,
       "Name": "マツリ",
       "Playable": true,
-      "Life": 500,
+      "Life": 550,
       "Atk": 80,
       "MagicAtk": 0,
       "Defence": 15,
@@ -13138,7 +13713,7 @@
       "Id": 100601,
       "Name": "アカリ",
       "Playable": true,
-      "Life": 500,
+      "Life": 550,
       "Atk": 60,
       "MagicAtk": 0,
       "Defence": 10,
@@ -13287,7 +13862,7 @@
       "Name": "アンナ",
       "Playable": true,
       "Life": 600,
-      "Atk": 95,
+      "Atk": 90,
       "MagicAtk": 0,
       "Defence": 15,
       "MagicDefence": 10,
@@ -13534,7 +14109,7 @@
       "Id": 101401,
       "Name": "カスミ",
       "Playable": true,
-      "Life": 500,
+      "Life": 550,
       "Atk": 70,
       "MagicAtk": 0,
       "Defence": 10,
@@ -13733,12 +14308,12 @@
       "Id": 101801,
       "Name": "イオ",
       "Playable": true,
-      "Life": 800,
+      "Life": 850,
       "Atk": 140,
       "MagicAtk": 0,
       "Defence": 20,
       "MagicDefence": 20,
-      "TechnicalPoint": 70,
+      "TechnicalPoint": 60,
       "AttackRecastTime": 1.4,
       "MoveRecastTime": 0.4,
       "AttackRange": 3.0,
@@ -13932,7 +14507,7 @@
       "Id": 102301,
       "Name": "アヤネ",
       "Playable": true,
-      "Life": 650,
+      "Life": 750,
       "Atk": 105,
       "MagicAtk": 0,
       "Defence": 25,
@@ -13982,12 +14557,12 @@
       "Id": 102501,
       "Name": "スズメ",
       "Playable": true,
-      "Life": 650,
+      "Life": 700,
       "Atk": 95,
       "MagicAtk": 0,
       "Defence": 20,
-      "MagicDefence": 10,
-      "TechnicalPoint": 60,
+      "MagicDefence": 20,
+      "TechnicalPoint": 50,
       "AttackRecastTime": 1.4,
       "MoveRecastTime": 0.4,
       "AttackRange": 4.0,
@@ -14081,7 +14656,7 @@
       "Id": 102701,
       "Name": "エリコ",
       "Playable": true,
-      "Life": 900,
+      "Life": 800,
       "Atk": 125,
       "MagicAtk": 0,
       "Defence": 40,
@@ -14181,7 +14756,7 @@
       "Id": 102901,
       "Name": "ノゾミ",
       "Playable": true,
-      "Life": 600,
+      "Life": 650,
       "Atk": 75,
       "MagicAtk": 0,
       "Defence": 20,
@@ -14281,7 +14856,7 @@
       "Id": 103101,
       "Name": "シノブ",
       "Playable": true,
-      "Life": 700,
+      "Life": 750,
       "Atk": 95,
       "MagicAtk": 0,
       "Defence": 25,
@@ -14330,10 +14905,10 @@
       "Id": 103201,
       "Name": "アキノ",
       "Playable": true,
-      "Life": 750,
+      "Life": 850,
       "Atk": 115,
       "MagicAtk": 0,
-      "Defence": 20,
+      "Defence": 30,
       "MagicDefence": 20,
       "TechnicalPoint": 60,
       "AttackRecastTime": 1.4,
@@ -14380,7 +14955,7 @@
       "Name": "マヒル",
       "Playable": true,
       "Life": 650,
-      "Atk": 130,
+      "Atk": 125,
       "MagicAtk": 0,
       "Defence": 25,
       "MagicDefence": 20,
@@ -14482,7 +15057,7 @@
       "MagicAtk": 0,
       "Defence": 20,
       "MagicDefence": 20,
-      "TechnicalPoint": 80,
+      "TechnicalPoint": 100,
       "AttackRecastTime": 1.5,
       "MoveRecastTime": 0.4,
       "AttackRange": 4.0,
@@ -14577,12 +15152,12 @@
       "Name": "シオリ",
       "Playable": true,
       "Life": 450,
-      "Atk": 95,
+      "Atk": 90,
       "MagicAtk": 0,
       "Defence": 10,
       "MagicDefence": 10,
-      "TechnicalPoint": 60,
-      "AttackRecastTime": 1.1,
+      "TechnicalPoint": 70,
+      "AttackRecastTime": 1.2,
       "MoveRecastTime": 0.4,
       "AttackRange": 4.0,
       "Scale": 0,
@@ -14626,7 +15201,7 @@
       "Name": "アオイ",
       "Playable": true,
       "Life": 400,
-      "Atk": 50,
+      "Atk": 60,
       "MagicAtk": 0,
       "Defence": 10,
       "MagicDefence": 10,
@@ -14724,7 +15299,7 @@
       "Name": "マコト",
       "Playable": true,
       "Life": 900,
-      "Atk": 125,
+      "Atk": 110,
       "MagicAtk": 0,
       "Defence": 50,
       "MagicDefence": 30,
@@ -14879,7 +15454,7 @@
       "Defence": 10,
       "MagicDefence": 10,
       "TechnicalPoint": 50,
-      "AttackRecastTime": 1.2,
+      "AttackRecastTime": 1.3,
       "MoveRecastTime": 0.4,
       "AttackRange": 1.0,
       "Scale": 0,
@@ -14927,7 +15502,7 @@
       "MagicAtk": 0,
       "Defence": 50,
       "MagicDefence": 30,
-      "TechnicalPoint": 80,
+      "TechnicalPoint": 90,
       "AttackRecastTime": 2.0,
       "MoveRecastTime": 0.4,
       "AttackRange": 1.0,
@@ -14972,7 +15547,7 @@
       "Id": 104801,
       "Name": "ミフユ",
       "Playable": true,
-      "Life": 750,
+      "Life": 800,
       "Atk": 105,
       "MagicAtk": 0,
       "Defence": 30,
@@ -15023,7 +15598,7 @@
       "Id": 104901,
       "Name": "シズル",
       "Playable": true,
-      "Life": 900,
+      "Life": 800,
       "Atk": 120,
       "MagicAtk": 0,
       "Defence": 30,
@@ -15078,7 +15653,7 @@
       "MagicAtk": 0,
       "Defence": 10,
       "MagicDefence": 10,
-      "TechnicalPoint": 60,
+      "TechnicalPoint": 50,
       "AttackRecastTime": 1.4,
       "MoveRecastTime": 0.4,
       "AttackRange": 3.0,
@@ -15322,13 +15897,13 @@
       "Id": 105501,
       "Name": "アユミ",
       "Playable": true,
-      "Life": 550,
+      "Life": 600,
       "Atk": 90,
       "MagicAtk": 0,
       "Defence": 15,
       "MagicDefence": 20,
       "TechnicalPoint": 0,
-      "AttackRecastTime": 1.5,
+      "AttackRecastTime": 1.3,
       "MoveRecastTime": 0.4,
       "AttackRange": 1.0,
       "Scale": 0,
@@ -15375,8 +15950,8 @@
       "Life": 650,
       "Atk": 100,
       "MagicAtk": 0,
-      "Defence": 20,
-      "MagicDefence": 20,
+      "Defence": 25,
+      "MagicDefence": 25,
       "TechnicalPoint": 60,
       "AttackRecastTime": 1.4,
       "MoveRecastTime": 0.4,
@@ -15471,8 +16046,8 @@
       "Id": 105901,
       "Name": "コッコロ",
       "Playable": true,
-      "Life": 550,
-      "Atk": 75,
+      "Life": 600,
+      "Atk": 80,
       "MagicAtk": 0,
       "Defence": 15,
       "MagicDefence": 10,
@@ -15571,12 +16146,12 @@
       "Name": "ムイミ",
       "Playable": true,
       "Life": 900,
-      "Atk": 150,
+      "Atk": 140,
       "MagicAtk": 0,
       "Defence": 30,
       "MagicDefence": 20,
       "TechnicalPoint": 60,
-      "AttackRecastTime": 1.2,
+      "AttackRecastTime": 1.3,
       "MoveRecastTime": 0.4,
       "AttackRange": 1.0,
       "Scale": 0,
@@ -15622,7 +16197,7 @@
       "Id": 106801,
       "Name": "ラビリスタ",
       "Playable": true,
-      "Life": 850,
+      "Life": 900,
       "Atk": 120,
       "MagicAtk": 0,
       "Defence": 30,
@@ -15672,7 +16247,7 @@
       "Id": 107001,
       "Name": "ネネカ",
       "Playable": true,
-      "Life": 1000,
+      "Life": 900,
       "Atk": 120,
       "MagicAtk": 0,
       "Defence": 40,
@@ -15748,6 +16323,206 @@
       "CharacteristicTypes": [
         12101,
         22006
+      ],
+      "AttackType": 1,
+      "Price": 5,
+      "IsToken": false,
+      "RankupRank1EquipIds": [
+        10004,
+        10004,
+        10004
+      ],
+      "RankupRank2EquipIds": [
+        10018,
+        10018,
+        10018
+      ],
+      "WeaponType": 5,
+      "StartSkillTime": 0.0,
+      "EndSkillTime": 2.0,
+      "StartVisibleTime": 0.0,
+      "EndVisibleTime": 2.0
+    },
+    {
+      "Id": 110801,
+      "Name": "クロエ",
+      "Playable": true,
+      "Life": 650,
+      "Atk": 80,
+      "MagicAtk": 0,
+      "Defence": 25,
+      "MagicDefence": 20,
+      "TechnicalPoint": 50,
+      "AttackRecastTime": 1.4,
+      "MoveRecastTime": 0.4,
+      "AttackRange": 1.0,
+      "Scale": 0,
+      "IsLargeDie": false,
+      "RotateDuration60": 0.3,
+      "RotateDuration120": 0.4,
+      "RotateDuration180": 0.5,
+      "IsRotate180DirRight": false,
+      "RoleTypes": [
+        105
+      ],
+      "TeamTypes": [
+        217
+      ],
+      "GuildId": 17,
+      "CharacteristicTypes": [
+        12101,
+        22001,
+        23002
+      ],
+      "AttackType": 1,
+      "Price": 2,
+      "IsToken": false,
+      "RankupRank1EquipIds": [
+        10004,
+        10004,
+        10004
+      ],
+      "RankupRank2EquipIds": [
+        10018,
+        10018,
+        10018
+      ],
+      "WeaponType": 6,
+      "StartSkillTime": 0.0,
+      "EndSkillTime": 2.0,
+      "StartVisibleTime": 0.0,
+      "EndVisibleTime": 2.0
+    },
+    {
+      "Id": 110901,
+      "Name": "チエル",
+      "Playable": true,
+      "Life": 500,
+      "Atk": 70,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPoint": 60,
+      "AttackRecastTime": 1.3,
+      "MoveRecastTime": 0.4,
+      "AttackRange": 1.0,
+      "Scale": 0,
+      "IsLargeDie": false,
+      "RotateDuration60": 0.3,
+      "RotateDuration120": 0.4,
+      "RotateDuration180": 0.5,
+      "IsRotate180DirRight": true,
+      "RoleTypes": [
+        106
+      ],
+      "TeamTypes": [
+        217
+      ],
+      "GuildId": 17,
+      "CharacteristicTypes": [
+        12101,
+        22003,
+        23005
+      ],
+      "AttackType": 1,
+      "Price": 1,
+      "IsToken": false,
+      "RankupRank1EquipIds": [
+        10004,
+        10004,
+        10004
+      ],
+      "RankupRank2EquipIds": [
+        10018,
+        10018,
+        10018
+      ],
+      "WeaponType": 3,
+      "StartSkillTime": 0.0,
+      "EndSkillTime": 2.0,
+      "StartVisibleTime": 0.0,
+      "EndVisibleTime": 2.0
+    },
+    {
+      "Id": 111001,
+      "Name": "ユニ",
+      "Playable": true,
+      "Life": 500,
+      "Atk": 60,
+      "MagicAtk": 0,
+      "Defence": 15,
+      "MagicDefence": 15,
+      "TechnicalPoint": 80,
+      "AttackRecastTime": 1.3,
+      "MoveRecastTime": 0.4,
+      "AttackRange": 3.0,
+      "Scale": 0,
+      "IsLargeDie": false,
+      "RotateDuration60": 0.3,
+      "RotateDuration120": 0.4,
+      "RotateDuration180": 0.5,
+      "IsRotate180DirRight": false,
+      "RoleTypes": [
+        109
+      ],
+      "TeamTypes": [
+        217
+      ],
+      "GuildId": 17,
+      "CharacteristicTypes": [
+        15101,
+        23003,
+        25001
+      ],
+      "AttackType": 2,
+      "Price": 1,
+      "IsToken": false,
+      "RankupRank1EquipIds": [
+        10004,
+        10004,
+        10004
+      ],
+      "RankupRank2EquipIds": [
+        10018,
+        10018,
+        10018
+      ],
+      "WeaponType": 9,
+      "StartSkillTime": 0.0,
+      "EndSkillTime": 2.0,
+      "StartVisibleTime": 0.0,
+      "EndVisibleTime": 2.0
+    },
+    {
+      "Id": 116401,
+      "Name": "シェフィ",
+      "Playable": true,
+      "Life": 950,
+      "Atk": 120,
+      "MagicAtk": 0,
+      "Defence": 35,
+      "MagicDefence": 30,
+      "TechnicalPoint": 60,
+      "AttackRecastTime": 1.4,
+      "MoveRecastTime": 0.4,
+      "AttackRange": 1.0,
+      "Scale": 0,
+      "IsLargeDie": false,
+      "RotateDuration60": 0.3,
+      "RotateDuration120": 0.4,
+      "RotateDuration180": 0.5,
+      "IsRotate180DirRight": false,
+      "RoleTypes": [
+        114
+      ],
+      "TeamTypes": [
+        203
+      ],
+      "GuildId": 1,
+      "CharacteristicTypes": [
+        12101,
+        22004,
+        23001
       ],
       "AttackType": 1,
       "Price": 5,
@@ -16108,7 +16883,7 @@
       "Id": 304700,
       "Name": "リビングメイル",
       "Playable": false,
-      "Life": 10000,
+      "Life": 12000,
       "Atk": 300,
       "MagicAtk": 0,
       "Defence": 300,
@@ -16205,7 +16980,7 @@
       "Name": "ドクロ親父",
       "Playable": true,
       "Life": 1000,
-      "Atk": 100,
+      "Atk": 200,
       "MagicAtk": 0,
       "Defence": 0,
       "MagicDefence": 0,
@@ -16295,6 +17070,938 @@
       "EndSkillTime": 2.0,
       "StartVisibleTime": 0.0,
       "EndVisibleTime": 2.0
+    }
+  ],
+  "unit_guild_buff_effect_data": [
+    {
+      "Id": 100101,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 100201,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 10.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        10.0
+      ]
+    },
+    {
+      "Id": 100301,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 100401,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 100501,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 100601,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 10.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        10.0
+      ]
+    },
+    {
+      "Id": 100701,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 30,
+      "MagicDefence": 30,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 100801,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 30,
+      "MagicDefence": 30,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 100901,
+      "Life": 150,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 20.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        20.0
+      ]
+    },
+    {
+      "Id": 101001,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 10.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        10.0
+      ]
+    },
+    {
+      "Id": 101101,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 101201,
+      "Life": 150,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 20.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        20.0
+      ]
+    },
+    {
+      "Id": 101301,
+      "Life": 150,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 20.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        20.0
+      ]
+    },
+    {
+      "Id": 101401,
+      "Life": 150,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 20.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        20.0
+      ]
+    },
+    {
+      "Id": 101501,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 10.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        10.0
+      ]
+    },
+    {
+      "Id": 101601,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 101701,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 101801,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 102001,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 102101,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 30,
+      "MagicDefence": 30,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 102201,
+      "Life": 150,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 20.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        20.0
+      ]
+    },
+    {
+      "Id": 102301,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 102501,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 10.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        10.0
+      ]
+    },
+    {
+      "Id": 102601,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 102701,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 102801,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 102901,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 30,
+      "MagicDefence": 30,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 103001,
+      "Life": 150,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 20.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        20.0
+      ]
+    },
+    {
+      "Id": 103101,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 103201,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 103301,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 103401,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 10.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        10.0
+      ]
+    },
+    {
+      "Id": 103601,
+      "Life": 150,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 20.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        20.0
+      ]
+    },
+    {
+      "Id": 103701,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 103801,
+      "Life": 150,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 20.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        20.0
+      ]
+    },
+    {
+      "Id": 104001,
+      "Life": 200,
+      "Atk": 20,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 104201,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 10.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        10.0
+      ]
+    },
+    {
+      "Id": 104301,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 104401,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 30,
+      "MagicDefence": 30,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 104501,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 30,
+      "MagicDefence": 30,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 104601,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 104701,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 30,
+      "MagicDefence": 30,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 104801,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 104901,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 105001,
+      "Life": 150,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 20.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        20.0
+      ]
+    },
+    {
+      "Id": 105101,
+      "Life": 200,
+      "Atk": 20,
+      "MagicAtk": 0,
+      "Defence": 30,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 105201,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 105301,
+      "Life": 200,
+      "Atk": 20,
+      "MagicAtk": 0,
+      "Defence": 30,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 105401,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 30,
+      "MagicDefence": 30,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 105501,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 105601,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 105801,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 105901,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 10.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        10.0
+      ]
+    },
+    {
+      "Id": 106001,
+      "Life": 150,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 20.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        20.0
+      ]
+    },
+    {
+      "Id": 106101,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 106801,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 107001,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 107101,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 110801,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 110901,
+      "Life": 100,
+      "Atk": 25,
+      "MagicAtk": 0,
+      "Defence": 10,
+      "MagicDefence": 10,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 20,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
+    },
+    {
+      "Id": 111001,
+      "Life": 250,
+      "Atk": 10,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 10.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        10.0
+      ]
+    },
+    {
+      "Id": 116401,
+      "Life": 200,
+      "Atk": 15,
+      "MagicAtk": 0,
+      "Defence": 20,
+      "MagicDefence": 20,
+      "TechnicalPointRate": 0.0,
+      "AttackRecastTimeTickRate": 10,
+      "MoveRecastTimeTickRate": 0,
+      "AttackRange": 0.0,
+      "EffectValues": [
+        0.0
+      ]
     }
   ],
   "unit_level_table_data": [
@@ -16585,6 +18292,26 @@
     },
     {
       "UnitId": 107101,
+      "Rank2Rate": 180.0,
+      "Rank3Rate": 180.0
+    },
+    {
+      "UnitId": 110801,
+      "Rank2Rate": 180.0,
+      "Rank3Rate": 180.0
+    },
+    {
+      "UnitId": 110901,
+      "Rank2Rate": 180.0,
+      "Rank3Rate": 180.0
+    },
+    {
+      "UnitId": 111001,
+      "Rank2Rate": 180.0,
+      "Rank3Rate": 180.0
+    },
+    {
+      "UnitId": 116401,
       "Rank2Rate": 180.0,
       "Rank3Rate": 180.0
     },
